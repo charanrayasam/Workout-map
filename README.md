@@ -16,7 +16,7 @@ Easily record details like type of activity, distance, duration, and pace.
 Save and retrieve workout data locally, ensuring your workouts are always available.
 
 # Demo
-Check out the live demo: workout-map-01.netlify.app
+Check out the live demo: [workout-map-01.netlify.app](https://workout-map-01.netlify.app/)
 
 # Installation
 ## Prerequisites
