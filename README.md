@@ -3,15 +3,7 @@
 Workout Map is a dynamic web application that lets users track and visualize their workout routes on an interactive map. Whether you're running or cycling, this app provides a modern way to log your workouts and see your progress over time.
 
 # Table of Contents
-. Features
-. Demo
-. Installation
-. Usage
-. Built With
-. Contributing
-. License
-. Contact
-. Acknowledgments
+Features, Demo, Installation, Usage, Built With, Contributing, License, Contact, Acknowledgments
 
 # Features
 ## Interactive Map Integration: 
@@ -28,14 +20,14 @@ Check out the live demo: Workout Map Live Demo
 
 # Installation
 ## Prerequisites
-A modern web browser (Chrome, Firefox, Safari, etc.)
+A modern web browser (Chrome, Firefox, Safari, etc.) <br />
 (Optional) A local web server if you wish to run the project locally.
 ## Steps
 ### Clone the Repository:
-git clone https://github.com/charanrayasam/Workout-map.git
+git clone https://github.com/charanrayasam/Workout-map.git <br />
 cd Workout-map
 ### Open the Application
-Option 1: Open index.html directly in your browser.
+Option 1: Open index.html directly in your browser. <br />
 Option 2: Run a local server (e.g., using Live Server for VSCode or Python’s HTTP server):
 
 # Usage
@@ -46,10 +38,10 @@ Click on the map where your workout began, fill in the workout form with details
 ## View Workouts: 
 Your logged workouts will appear as markers on the map and in the sidebar with detailed statistics.
 
-# Built With
-HTML5 & CSS3 – For structuring and styling the application.
-Vanilla JavaScript (ES6+) – Core functionality of the app.
-Leaflet – For interactive maps.
+# Built With 
+HTML5 & CSS3 – For structuring and styling the application. <br/>
+Vanilla JavaScript (ES6+) – Core functionality of the app. <br/>
+Leaflet – For interactive maps.<br/>
 Local Storage API – For persisting workout data across sessions.
 
 # Acknowledgments
