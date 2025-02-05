@@ -25,4 +25,5 @@ Click anywhere on the map to log a workout.
 See your workouts pop up on the map and in a list.
 ### Refresh the page:
   Your workouts are still there (because local storage is awesome).<br>
-Come back anytime and keep logging workouts!
+Come back anytime and keep logging workouts!<br>
+🛠️ This project was created as part of the JavaScript course by Jonas Schmedtmann.
